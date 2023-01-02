@@ -1,0 +1,9 @@
+body {
+    background: green;
+  }
+title {
+    font-size: larger;
+    font-family: fantasy;
+    text-align: center;
+    color: burlywood;
+}
